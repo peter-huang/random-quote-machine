@@ -1,3 +1,5 @@
+{
+  quotes : [
   { 
     quote: "The secret of getting ahead is getting started.",
     author: "Mark Twain"
@@ -41,3 +43,5 @@
     quote: "If you want to live a happy life, tie it to a goal, not to people or things.",
     author: "Albert Einstein"
   }
+]}
+  
