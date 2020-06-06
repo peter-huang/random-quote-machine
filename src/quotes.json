@@ -1,47 +1,47 @@
 {
-  quotes : [
+  "quotes" : [
   { 
-    quote: "The secret of getting ahead is getting started.",
-    author: "Mark Twain"
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
   },
   {
-    quote: "It does not matter how slowly you go as long as you do not stop.",
-    author: "Confucius"
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
   },
   {
-    quote:
+    "quote":
       "Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.",
-    author: "Stephen Hawking"
+    "author": "Stephen Hawking"
   },
   {
-    quote:
+    "quote":
       "Knowing is not enough; we must apply. Willing is not enough; we must do.",
-    author: "Johann Wolfgang von Goethe"
+    "author": "Johann Wolfgang von Goethe"
   },
   {
-    quote:
+    "quote":
       "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
-    author: "Michael Jordan"
+    "author": "Michael Jordan"
   },
   {
-    quote: "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
-    author: "Helen Keller"
+    "quote": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+    "author": "Helen Keller"
   },
   {
-    quote: "When I dare to be powerful – to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
-    author: "Audre Lorde"
+    "quote": "When I dare to be powerful – to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+    "author": "Audre Lorde"
   },
   {
-    quote: "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
-    author: "Eleanor Roosevelt"
+    "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "author": "Eleanor Roosevelt"
   },
   {
-    quote: "I’m a success today because I had a friend who believed in me and I didn’t have the heart to let him down.",
-    author: "Abraham Lincoln"
+    "quote": "I’m a success today because I had a friend who believed in me and I didn’t have the heart to let him down.",
+    "author": "Abraham Lincoln"
   },
   {
-    quote: "If you want to live a happy life, tie it to a goal, not to people or things.",
-    author: "Albert Einstein"
+    "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+    "author": "Albert Einstein"
   }
 ]}
   
