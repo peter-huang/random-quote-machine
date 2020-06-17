@@ -5,6 +5,7 @@ A React application that generates random quotes from a JSON file as part of the
 **Final Project:** [https://peterhuang.net/projects/random-quote-machine/](https://peterhuang.net/projects/random-quote-machine/)
 
 **User Story #1:** I can click a button to show a new random quote.
+
 **User Story #2:** I can press a button to tweet out the quote.
 
 ## Getting Started
