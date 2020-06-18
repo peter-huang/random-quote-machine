@@ -1,6 +1,6 @@
 {
   "name": "random-quote-machine",
-  "homepage": "http://www.peterhuang.net/projects/random-quote-machine/",
+  "homepage": "https://www.peterhuang.net/projects/random-quote-machine/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
