@@ -14,8 +14,8 @@ const COLORS = [
   "#007f5f",
   "#f25c54",
 ];
-const JSON_DATA =
-  "https://gist.githubusercontent.com/peter-huang/b7a704a48e712f9770a9f973a6c30421/raw/1560c8077b561c0ab977ae3b054241c85edfa87d/quotes.json";
+const JSON_DATA = "https://quotes-api.phuang.repl.co/api/quotes/quotes";
+// "https://gist.githubusercontent.com/peter-huang/b7a704a48e712f9770a9f973a6c30421/raw/1560c8077b561c0ab977ae3b054241c85edfa87d/quotes.json";
 
 class App extends React.Component {
   constructor(props) {
